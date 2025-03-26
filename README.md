@@ -9,3 +9,6 @@ When designing a cloud-based application, the architecture and environment play 
 - Security 🔐 – Implementing robust security controls to protect data, manage access permissions, and minimize vulnerabilities from attacks.  
 
 A well-architected cloud solution balances these elements to create a resilient, efficient, and secure application.
+
+
+![image](https://github.com/user-attachments/assets/bc112c87-c94c-41b1-b917-d0273b8b316c)
